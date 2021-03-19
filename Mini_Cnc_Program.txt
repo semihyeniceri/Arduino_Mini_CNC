@@ -1,0 +1,5 @@
+http://www.semihyeniceri.com/Pro/arduino-1.8.13-windows.zip
+http://www.semihyeniceri.com/Pro/Inkscape-0.48.5-1-win32.zip
+http://www.semihyeniceri.com/Pro/inkscape-unicorn-master.zip
+http://www.semihyeniceri.com/Pro/processing-3.5.4-windows32.zip
+http://www.semihyeniceri.com/Pro/processing-3.5.4-windows64.zip
